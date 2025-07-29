@@ -30,6 +30,12 @@
 A detailed getting started guide can be found at [umami.is/docs](https://umami.is/docs/).
 
 ---
+<h3>⚡ Quick Installation Script</h3>
+<p>
+  Want a much easier and faster way to install Umami with everything pre-configured (including PostgreSQL and port settings)?<br>
+  Check out this one-command installer:<br>
+  👉 <a href="https://gist.github.com/efeakaroz13/ba0f40879d4739c86309f60500e8f8fa" target="_blank">gist.github.com/efeakaroz13/ba0f40879d4739c86309f60500e8f8fa</a>
+</p>
 
 ## 🛠 Installing from Source
 
